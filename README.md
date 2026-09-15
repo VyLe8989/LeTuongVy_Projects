@@ -41,4 +41,4 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 - Designed and implemented UI/UX flows in Figma, including Mood Tracking and Monthly Wrap-ups to improve user engagement and retention.
 - Developed a KNN Collaborative Filtering recommendation engine using Cosine Similarity on user–artist matrices, achieving 0.837 Precision@10.
 - Collaborated with the team to evaluate model metrics and translate quantitative outputs into actionable insights.
-- View Responsibilities ↗
+- [View Responsibilities ↗](https://github.com/VyLe8989/Project_MOO_D)
