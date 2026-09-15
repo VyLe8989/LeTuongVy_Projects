@@ -28,7 +28,7 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 - Developed ETL pipelines with SQL/dbt for data cleaning, standardization, validation, and integration.
 - Designed a Star Schema (Fact/Dimension) for customer, product, order, seller, and payment analytics.
 - Built interactive BI dashboards and applied RFM + K-Means for customer segmentation.
-- [View Responsibilities ↗](https://github.com/VyLe8989/Project_Olist)
+- [View Responsibilities ↗](https://drive.google.com/drive/folders/1aQRjNjU2jji8RsEcOmhY2n9gQeyGKaEj)
 
 
 ### 3. Moo_d – AI-powered Mood-based Music Recommendation Platform
