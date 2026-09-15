@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 - Analyzed business requirements and designed end-to-end business processes covering Gacha, Inventory, Order, and Payment workflows.
 - Designed system architecture, Use Cases, DFD, database structure, and UI/UX based on business requirements.
 - Developed a Single Page Application using Angular, TypeScript, and Supabase, implementing user, inventory, order, and transaction management.
-- View Responsibilities ↗[View Responsibilities ↗](https://github.com/VyLe8989/Project_Olist)
+- [View Responsibilities ↗](https://github.com/Hukko0401/Web_kinhdoanh_YureiWeb)
 
 
 ### 2. Olist E-Commerce Data Warehouse & ETL Pipeline
