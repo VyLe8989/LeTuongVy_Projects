@@ -7,8 +7,7 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 ## Featured Projects
 
 ### 1. YURĒI – E-Commerce Web Application
-**July 2026**
-**Role: Data Developer / Business Analyst**
+**July 2026** - **Role: Data Developer / Business Analyst**
 
 **Core Tech: Angular, TypeScript, Supabase, PostgreSQL, Figma, Draw.io.**
 
@@ -20,8 +19,7 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 
 
 ### 2. Olist E-Commerce Data Warehouse & ETL Pipeline  
-**Jun 2026**
-**Role: Data Engineer / Analyst**
+**Jun 2026** - **Role: Data Engineer / Analyst**
 
 **Core Tech: Python, SQL, dbt, MotherDuck, ETL, Medallion Architecture, Star Schema, BI Dashboard, Streamlit, RFM, K-Means.**
 
@@ -34,8 +32,7 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 
 
 ### 3. Mini Chef - AI-Based Recipe Recommendation
-**March 2026**
-**Role: Business Analyst**
+**March 2026** - **Role: Business Analyst**
 
 **Core Tech: Python, Supabase, n8n, RAG, OpenRouter API.**
 
@@ -45,8 +42,7 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 - [View Responsibilities ↗](https://github.com/letuongvy042005/Vy-s-project/tree/main/AI_Solution)
 
 ### 4. Moo_d – AI-powered Mood-based Music Recommendation Platform
-**November 2025**
-**Role: Full-Stack Developer / Business Analyst**
+**November 2025** - **Role: Full-Stack Developer / Business Analyst**
 
 **Core Tech: Python, KNN Collaborative Filtering (Cosine Similarity), High-Dimensional Matrices, Figma.**
 
