@@ -7,6 +7,7 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 ## Featured Projects
 
 ### 1. YURĒI – E-Commerce Web Application
+**July 2026**
 **Role: Data Developer / Business Analyst**
 
 **Core Tech: Angular, TypeScript, Supabase, PostgreSQL, Figma, Draw.io.**
@@ -18,7 +19,8 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 - [View Responsibilities ↗](https://github.com/Hukko0401/Web_kinhdoanh_YureiWeb)
 
 
-### 2. Olist E-Commerce Data Warehouse & ETL Pipeline
+### 2. Olist E-Commerce Data Warehouse & ETL Pipeline  
+**Jun 2026**
 **Role: Data Engineer / Analyst**
 
 **Core Tech: Python, SQL, dbt, MotherDuck, ETL, Medallion Architecture, Star Schema, BI Dashboard, Streamlit, RFM, K-Means.**
@@ -31,7 +33,19 @@ Welcome to my GitHub portfolio. I'm a **Digital Business & AI student** passiona
 - [View Responsibilities ↗](https://drive.google.com/drive/folders/1aQRjNjU2jji8RsEcOmhY2n9gQeyGKaEj)
 
 
-### 3. Moo_d – AI-powered Mood-based Music Recommendation Platform
+### 3. Mini Chef - AI-Based Recipe Recommendation
+**March 2026**
+**Role: Business Analyst**
+
+**Core Tech: Python, Supabase, n8n, RAG, OpenRouter API.**
+
+**Key Achievements:**
+- Processed and stored vector embeddings from recipe datasets in Supabase for semantic similarity search and ingredient-based retrieval.
+- Developed an AI-powered recipe recommendation workflow using n8n, OpenRouter APIs, semantic ingredient matching, and RAG-based recipe generation.
+- [View Responsibilities ↗](https://github.com/letuongvy042005/Vy-s-project/tree/main/AI_Solution)
+
+### 4. Moo_d – AI-powered Mood-based Music Recommendation Platform
+**November 2025**
 **Role: Full-Stack Developer / Business Analyst**
 
 **Core Tech: Python, KNN Collaborative Filtering (Cosine Similarity), High-Dimensional Matrices, Figma.**
